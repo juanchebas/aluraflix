@@ -13,7 +13,7 @@
 <h2>Funcionalidad del proyecto</h2>
 <hr>
 <ul>
-  <li>Funcionalidad 1:: Listado, registro, actualización y elimnación de categorias</li>
+  <li><strong>Funcionalidad 1::</strong> Listado, registro, actualización y elimnación de categorias</li>
   <li>Funcionalidad 1:: Listado, registro, actualización y elimnación de videos</li>
 </ul>
 
