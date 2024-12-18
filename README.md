@@ -14,7 +14,7 @@
 <hr>
 <ul>
   <li><strong>Funcionalidad 1::</strong> Listado, registro, actualización y elimnación de categorias</li>
-  <li>Funcionalidad 1:: Listado, registro, actualización y elimnación de videos</li>
+  <li><strong>Funcionalidad 1::</strong> Listado, registro, actualización y elimnación de videos</li>
 </ul>
 
 <h2>Tecnologías utilizadas</h2>
