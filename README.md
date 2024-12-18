@@ -1,6 +1,9 @@
 <h1>Indice</h1>
 
-<ul>Descripción del proyecto
-Funcionalidades del proyecto
-Tecnologías utilizadas</ul>
-Descripción del proyecto
+<ul>
+  <li>Descripción del proyecto</li>
+  <li>Funcionalidades del proyecto</li>
+  <li>Tecnologías utilizadas</li>
+</ul>
+
+<h2>Descripción del proyecto</h2>
