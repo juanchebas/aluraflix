@@ -5,8 +5,7 @@
 ### Índice  
 
 - [Descripción del proyecto](#Descripción-del-proyecto) 
-- [Funcionalidades del proyecto](#Funcionalidades-del-proyecto)  
-- [Acceso al proyecto](#Acceso-al-proyecto)  
+- [Funcionalidades del proyecto](#Funcionalidades-del-proyecto)   
 - [Tecnologías utilizadas](#Tecnologías-utilizadas)  
 ## Descripción del proyecto  
 
